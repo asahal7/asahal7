@@ -7,12 +7,12 @@ I'm a Computer Science & Mathematics student at Queen Mary University of London,
 ## 🌱 What I'm Working On
 - Full-stack **Fitness & Stamina Tracker**  
 - Improving DSA skills (100+ LeetCode problems solved)
-- Strengthening Java fundamentals with hands-on projects
+- Strengthening Python fundamentals with hands-on projects
 
 ---
 
 ## 🛠️ Technical Skills
-**Languages:** Java, Python, C++, JavaScript  
+**Languages:** Java, Python
 **Concepts:** OOP, Data Structures & Algorithms, Multithreading  
 **Tools:** Git/GitHub, Swing, Visual Paradigm, VS Code, Intellij, Linux/Unix
 
@@ -26,7 +26,7 @@ I'm a Computer Science & Mathematics student at Queen Mary University of London,
 
 ## 📫 Connect With Me
 - GitHub: **@asahal7**  
-- LinkedIn: *Add your link here*
+- LinkedIn: *https://www.linkedin.com/in/abdimaalik-sahal-33bbab336/*
 
 ---
 
