@@ -1,34 +1,41 @@
-# Hi, I'm Abdimaalik 👋
-
-I'm a Computer Science & Mathematics student at Queen Mary University of London, focused on becoming a strong, well-rounded software engineer. I enjoy building practical projects, solving algorithmic challenges, and continuously improving as a developer.
-
----
-
-## 🌱 What I'm Working On
-- Full-stack **Fitness & Stamina Tracker**  
-- Improving DSA skills (100+ LeetCode problems solved)
-- Strengthening Python fundamentals with hands-on projects
+<h2 align="center">Hi, I'm Abdimaalik 👋</h2>
+<p align="center">Computer Science & Mathematics @ Queen Mary University of London</p>
 
 ---
 
-## 🛠️ Technical Skills
-**Languages:** Java, Python
-**Concepts:** OOP, Data Structures & Algorithms, Multithreading  
-**Tools:** Git/GitHub, Swing, Visual Paradigm, VS Code, Intellij, Linux/Unix
+## 🚀 About Me
+Aspiring software engineer focused on building practical projects and sharpening problem-solving skills.
 
 ---
 
-## 📌 Featured Projects
-- 🐎 **Horse Race Simulator** (Java, Swing, multithreading)  
-- 📊 **Algorithm Practice Repo** (LeetCode + problem-solving notes)
+## 🌱 Current Focus
+- Full-stack **Fitness & Stamina Tracker**
+- DSA practice (100+ LeetCode problems)
+- Improving Python fundamentals
 
 ---
 
-## 📫 Connect With Me
+## 🛠️ Tech Stack
+**Languages:** Java, Python  
+**Core Skills:** OOP, DSA, Multithreading  
+**Tools:** Git/GitHub, Swing, VS Code, IntelliJ, Linux/Unix, Visual Paradigm
+
+---
+
+## 📌 Projects
+- 🐎 **Horse Race Simulator** — Java, Swing, multithreading  
+- 🔐 **Login System (Python + SQL)** — authentication + database integration  
+- 🌦️ **Weather App** — API-powered live weather data  
+- 📊 **DSA Practice Repo** — LeetCode solutions & notes  
+
+---
+
+## 📫 Connect
 - GitHub: **@asahal7**  
 - LinkedIn: *https://www.linkedin.com/in/abdimaalik-sahal-33bbab336/*
 
 ---
 
-Thanks for visiting my profile 👨‍💻
+<p align="center">Thanks for visiting 👨‍💻</p>
+
 
