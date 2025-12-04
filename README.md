@@ -9,7 +9,7 @@ Aspiring software engineer focused on building practical projects and sharpening
 ---
 
 ## 🌱 Current Focus
-- Full-stack **Fitness & Stamina Tracker**
+- Full-stack **Daily Habit Tracker**
 - DSA practice (100+ LeetCode problems)
 - Improving Python fundamentals
 
