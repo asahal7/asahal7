@@ -1,41 +1,48 @@
-<h2 align="center">Hi, I'm Abdimaalik 👋</h2>
-<p align="center">Computer Science & Mathematics @ Queen Mary University of London</p>
+# 👋 Hi, I'm Abdimaalik Sahai
 
----
+**Computer Science & Mathematics Student | Seeking Summer 2025 Internship & 2025-2026 Placement Year**
 
-## 🚀 About Me
-Aspiring software engineer focused on building practical projects and sharpening problem-solving skills.
-
----
-
-## 🌱 Current Focus
-- Full-stack **Daily Habit Tracker**
-- DSA practice (100+ LeetCode problems)
-- Improving Python fundamentals
-
----
+Passionate about building practical software solutions and continuously improving my problem-solving skills through projects and competitive programming.
 
 ## 🛠️ Tech Stack
-**Languages:** Java, Python  
-**Core Skills:** OOP, DSA, Multithreading  
-**Tools:** Git/GitHub, Swing, VS Code, IntelliJ, Linux/Unix, Visual Paradigm
+**Languages:** Java, Python, JavaScript  
+**Frameworks & Libraries:** Spring Boot, Flask, React  
+**Databases:** MySQL, SQLite  
+**Tools:** Git, IntelliJ, VS Code, Linux, Maven, Postman  
+**Core Concepts:** OOP, Data Structures & Algorithms, System Design, REST APIs
+
+## 📌 Featured Projects
+
+### 🏇 Horse Race Simulator – Java, Spring, Multithreading
+A concurrent horse racing simulation implementing multithreading concepts with a Spring-based backend.
+- **Key Features:** Thread synchronization, race state management, console UI
+- **Tech:** Java 11, Spring Boot, Maven
+
+### 🔐 Login System – Python, Flask, SQL
+A secure authentication system with database integration and session management.
+- **Key Features:** Password hashing, user registration/login, SQLite database
+- **Tech:** Python, Flask, SQLite, HTML/CSS
+
+### 🌤️ Weather App – Flask, REST API
+Real-time weather application fetching data from public weather APIs.
+- **Key Features:** API integration, responsive design, error handling
+- **Tech:** Python, Flask, REST APIs, HTML/CSS
+
+### 📊 Daily Habit Tracker – Full-Stack Application
+Full-stack application for tracking daily habits and productivity (in progress).
+- **Tech:** React, Flask, MySQL
+
+## 📈 Currently Working On
+- Completing the Full-Stack Daily Habit Tracker
+- Solving 150+ LeetCode problems (Focus: Arrays, Trees, Dynamic Programming)
+- Enhancing Python backend development skills
+
+## 📫 Connect With Me
+- **LinkedIn:** [linkedin.com/in/abdimaalik-sahai](https://www.linkedin.com/in/abdimaalik-sahai-33babc93f/) *(Fix this link!)*
+- **Email:** abdimaalik@gmail.com
+- **LeetCode:** [leetcode.com/your-profile](https://leetcode.com/your-profile) *[Add your actual link]*
 
 ---
-
-## 📌 Projects
-- 🐎 **Horse Race Simulator** — Java, Swing, multithreading  
-- 🔐 **Login System (Python + SQL)** — authentication + database integration  
-- 🌦️ **Weather App** — API-powered live weather data  
-- 📊 **DSA Practice Repo** — LeetCode solutions & notes  
-
----
-
-## 📫 Connect
-- GitHub: **@asahal7**  
-- LinkedIn: *https://www.linkedin.com/in/abdimaalik-sahal-33bbab336/*
-
----
-
-<p align="center">Thanks for visiting 👨‍💻</p>
+⚡ **Fun Fact:** I enjoy tackling algorithmic challenges and have solved X+ problems on LeetCode.
 
 
