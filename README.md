@@ -5,7 +5,7 @@
 Passionate about building practical software solutions and continuously improving my problem-solving skills through projects and competitive programming.
 
 ## 🛠️ Tech Stack
-**Languages:** Java, Python, JavaScript  
+**Languages:** Java, Python, SQL, C
 **Frameworks & Libraries:** Spring Boot, Flask, React  
 **Databases:** MySQL, SQLite  
 **Tools:** Git, IntelliJ, VS Code, Linux, Maven, Postman  
@@ -28,9 +28,6 @@ Real-time weather application fetching data from public weather APIs.
 - **Key Features:** API integration, responsive design, error handling
 - **Tech:** Python, Flask, REST APIs, HTML/CSS
 
-### 📊 Daily Habit Tracker – Full-Stack Application
-Full-stack application for tracking daily habits and productivity (in progress).
-- **Tech:** React, Flask, MySQL
 
 ## 📈 Currently Working On
 - Completing the Full-Stack Daily Habit Tracker
@@ -39,10 +36,10 @@ Full-stack application for tracking daily habits and productivity (in progress).
 
 ## 📫 Connect With Me
 - **LinkedIn:** [linkedin.com/in/abdimaalik-sahai](https://www.linkedin.com/in/abdimaalik-sahai-33babc93f/) *(Fix this link!)*
-- **Email:** abdimaalik@gmail.com
+- **Email:** abdimaaaali0k@gmail.com
 - **LeetCode:** [leetcode.com/your-profile](https://leetcode.com/your-profile) *[Add your actual link]*
 
 ---
-⚡ **Fun Fact:** I enjoy tackling algorithmic challenges and have solved X+ problems on LeetCode.
+⚡ **Fun Fact:** I enjoy tackling algorithmic challenges and have solved 150+ problems on LeetCode.
 
 
