@@ -5,10 +5,11 @@
 Passionate about building practical software solutions and continuously improving my problem-solving skills through projects and competitive programming.
 
 ## 🛠️ Tech Stack
-**Languages:** Java, Python, C , SQL 
-**Databases:** MySQL, SQLite  
-**Tools:** Git, IntelliJ, VS Code, Linux, Maven, Postman  
-**Core Concepts:** OOP, Data Structures & Algorithms, System Design, REST APIs
+- **Languages:** Java, Python, C, SQL
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, IntelliJ, VS Code, Linux, Maven, Postman
+- **Core Concepts:** OOP, Data Structures & Algorithms, System Design, REST APIs
+
 
 ## 📌 Featured Projects
 
