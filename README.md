@@ -6,6 +6,7 @@ Passionate about building practical software solutions and continuously improvin
 
 ## 🛠️ Tech Stack
 **Languages:** Java, Python, SQL, C
+
 **Frameworks & Libraries:** Spring Boot, Flask, React  
 **Databases:** MySQL, SQLite  
 **Tools:** Git, IntelliJ, VS Code, Linux, Maven, Postman  
