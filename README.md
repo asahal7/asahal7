@@ -43,9 +43,9 @@ A secure CLI banking application handling deposits, withdrawals, and transfers f
 
 
 ## 📫 Connect With Me
-- **LinkedIn:** [linkedin.com/in/abdimaalik-sahai](https://www.linkedin.com/in/abdimaalik-sahai-33babc93f/)
+- - **LinkedIn:** [linkedin.com/in/abdimaalik-sahal](https://www.linkedin.com/in/abdimaalik-sahal-33bbab336/)
 - **Email:** abdimaaaali0k@gmail.com
-- **LeetCode:** ([https://leetcode.com/your-profile](https://leetcode.com/u/asahal0/)) 
+- **LeetCode:** [leetcode.com/u/asahal0](https://leetcode.com/u/asahal0/)
 
 ---
 ⚡ **Fun Fact:** I enjoy tackling algorithmic challenges and have solved 150+ problems on LeetCode.
