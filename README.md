@@ -25,6 +25,12 @@ Real-time weather application fetching data from public weather APIs.
 - **Tech:** Python, Flask, REST APIs, HTML/CSS
 - **Repo:** [GitHub](https://github.com/asahal7/weather-flask-api)
 
+###  🐎 Horse Race Simulator – Java, OOP + GUI
+A Java-based horse racing simulator that models a full race experience with animated progression, user interaction, and a betting system.
+- **Key Features:** Race simulation logic, GUI-based race display, betting input system, real-time horse movement + results tracking
+- **Tech:** Java, Swing GUI, Object-Oriented Design, Event Handling
+- **Repo:** [GitHub](https://github.com/asahal7/HorseRaceSimulator)
+
 
 ## 📈 Currently Working On
 - Creating a Job Queue Processing System
