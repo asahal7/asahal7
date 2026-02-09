@@ -18,11 +18,6 @@ A Java-based engine that models portfolios of financial assets, handles buy/sell
 - **Tech:** Java, OOP, Console-based simulation
 - **Repo:** [GitHub](https://github.com/asahal7/transaction-risk-portfolio-engine)
 
-### 🔐 Login System – Python, Flask, SQL
-A secure authentication system with database integration and session management.
-- **Key Features:** Password hashing, user registration/login, SQLite database
-- **Tech:** Python, Flask, SQLite, HTML/CSS
-- **Repo:** [GitHub](https://github.com/asahal7/python-login-system)
 
 ### 🌤️ Weather App – Flask, REST API
 Real-time weather application fetching data from public weather APIs.
@@ -30,14 +25,9 @@ Real-time weather application fetching data from public weather APIs.
 - **Tech:** Python, Flask, REST APIs, HTML/CSS
 - **Repo:** [GitHub](https://github.com/asahal7/weather-flask-api)
 
-### 💳 Command-Line Banking System – C
-A secure CLI banking application handling deposits, withdrawals, and transfers for simulated accounts.
-- **Key Features:** Atomic transactions, PIN authentication, file-based persistence
-- **Tech:** C, Structs & Pointers, File I/O
-- **Repo:** [GitHub](https://github.com/asahal7/banking-system)
 
 ## 📈 Currently Working On
-- Completing the Full-Stack Daily Habit Tracker
+- Creating a Job Queue Processing System
 - Solving 150+ LeetCode problems (Focus: Arrays, Trees, Dynamic Programming)
 - Enhancing Python backend development skills
 
