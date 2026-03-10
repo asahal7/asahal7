@@ -1,14 +1,29 @@
 # 👋 Hi, I'm Abdimaalik Sahal
 
-**Computer Science & Mathematics Student | Seeking Summer 2025 Internship & 2025-2026 Placement Year**
+**Backend-Focused Computer Science & Mathematics Student**  
+Seeking **Software Engineering Internships (2026)**
 
-Passionate about building practical software solutions and continuously improving my problem-solving skills through projects and competitive programming.
+I enjoy building practical backend systems and improving my problem-solving skills through projects and algorithmic challenges.  
+Currently focused on **Java backend development, APIs, and system design**.
+
+---
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, Python, SQL
-- **Databases:** MySQL, SQLite
-- **Tools:** Git, IntelliJ, VS Code, Linux, Maven, 
-- **Core Concepts:** OOP, Data Structures & Algorithms, System Design, REST APIs
+
+**Languages**  
+Java, Python, SQL
+
+**Backend & Frameworks**  
+Spring Boot, REST APIs
+
+**Databases**  
+PostgreSQL, MySQL, SQLite
+
+**Tools & Technologies**  
+Git, Maven, IntelliJ, VS Code, Linux
+
+**Core Concepts**  
+Object-Oriented Programming (OOP), Data Structures & Algorithms, Backend System Design, API Development
 
 ## 📌 Featured Projects
 
