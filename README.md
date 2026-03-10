@@ -69,7 +69,7 @@ Java • Spring Boot • PostgreSQL • Flyway • Maven
 
 
 ## 📫 Connect With Me
-- - **LinkedIn:** [linkedin.com/in/abdimaalik-sahal](https://www.linkedin.com/in/abdimaalik-sahal-33bbab336/)
+- **LinkedIn:** [linkedin.com/in/abdimaalik-sahal](https://www.linkedin.com/in/abdimaalik-sahal-33bbab336/)
 - **Email:** abdimaaaali0k@gmail.com
 - **LeetCode:** [leetcode.com/u/shadow73688](https://leetcode.com/u/shadow73688/)
 
