@@ -52,17 +52,26 @@ A weather application that retrieves real-time weather data from external APIs a
 - **Tech:** Python, Flask, REST APIs, HTML/CSS  
 - **Repo:** https://github.com/asahal7/weather-flask-api
 
+## 🚀 Currently Building
 
-## 📈 Currently Working On
-- Creating a Job Queue Processing System
-- Solving 150+ LeetCode problems (Focus: Arrays, Trees, Dynamic Programming)
-- Enhancing Python backend development skills
+### 🏥 Clinic Scheduling & Waitlist Engine
+A backend system for managing patient appointments, clinician availability, and scheduling constraints.
+
+**Current focus:**
+- Designing REST APIs for appointment scheduling
+- Implementing clinician availability and double-booking prevention
+- Building a waitlist system to automatically fill cancelled appointments
+- Integrating PostgreSQL persistence using Spring Data JPA
+- Managing database migrations with Flyway
+
+**Tech Stack:**  
+Java • Spring Boot • PostgreSQL • Flyway • Maven
 
 
 ## 📫 Connect With Me
 - - **LinkedIn:** [linkedin.com/in/abdimaalik-sahal](https://www.linkedin.com/in/abdimaalik-sahal-33bbab336/)
 - **Email:** abdimaaaali0k@gmail.com
-- **LeetCode:** [leetcode.com/u/asahal0](https://leetcode.com/u/asahal0/)
+- **LeetCode:** [leetcode.com/u/shadow73688](https://leetcode.com/u/shadow73688/)
 
 ---
 ⚡ **Fun Fact:** I enjoy tackling algorithmic challenges and have solved 150+ problems on LeetCode.
