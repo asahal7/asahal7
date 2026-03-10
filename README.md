@@ -27,24 +27,30 @@ Object-Oriented Programming (OOP), Data Structures & Algorithms, Backend System 
 
 ## 📌 Featured Projects
 
+### 🏥 Clinic Scheduling & Waitlist Engine – Java, Spring Boot *(In Progress)*
+A backend system for managing **patient appointments, clinician availability, and scheduling constraints** in a clinical environment.
+
+- **Key Features:** REST API for appointment scheduling, service-layer architecture, UUID-based domain modelling, clinician conflict detection *(in development)*  
+- **Tech:** Java, Spring Boot, PostgreSQL, Flyway, Maven  
+- **Focus:** Backend system design, API development, scheduling logic  
+- **Repo:** *(coming soon)*
+
+
 ### 💹 Transaction Risk Portfolio Engine – Java
-A Java-based engine that models portfolios of financial assets, handles buy/sell transactions, and calculates weighted portfolio risk.
-- **Key Features:** Asset/Portfolio/Transaction classes, RiskCalculator for dynamic risk analysis, market fluctuation simulation
-- **Tech:** Java, OOP, Console-based simulation
-- **Repo:** [GitHub](https://github.com/asahal7/transaction-risk-portfolio-engine)
+A Java-based engine that models portfolios of financial assets, processes buy/sell transactions, and calculates weighted portfolio risk.
+
+- **Key Features:** Portfolio/Asset/Transaction domain model, immutable transactions with unique IDs, dynamic portfolio value tracking, risk calculation engine  
+- **Tech:** Java, Object-Oriented Programming (OOP), data modelling  
+- **Focus:** Backend-style architecture and financial systems modelling  
+- **Repo:** https://github.com/asahal7/transaction-risk-portfolio-engine
 
 
-### 🌤️ Weather App – Flask, REST API
-Real-time weather application fetching data from public weather APIs.
-- **Key Features:** API integration, responsive design, error handling
-- **Tech:** Python, Flask, REST APIs, HTML/CSS
-- **Repo:** [GitHub](https://github.com/asahal7/weather-flask-api)
+### 🌤️ Weather API App – Python, Flask
+A weather application that retrieves real-time weather data from external APIs and exposes endpoints for weather queries.
 
-###  🐎 Horse Race Simulator – Java, OOP + GUI
-A Java-based horse racing simulator that models a full race experience with animated progression, user interaction, and a betting system.
-- **Key Features:** Race simulation logic, GUI-based race display, betting input system, real-time horse movement + results tracking
-- **Tech:** Java, Swing GUI, Object-Oriented Design, Event Handling
-- **Repo:** [GitHub](https://github.com/asahal7/HorseRaceSimulator)
+- **Key Features:** External API integration, REST-style endpoints, error handling  
+- **Tech:** Python, Flask, REST APIs, HTML/CSS  
+- **Repo:** https://github.com/asahal7/weather-flask-api
 
 
 ## 📈 Currently Working On
