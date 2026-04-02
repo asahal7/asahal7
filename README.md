@@ -1,79 +1,142 @@
 # 👋 Hi, I'm Abdimaalik Sahal
 
-**Backend-Focused Computer Science & Mathematics Student**  
+**Backend Software Engineer (in training)**  
+Computer Science & Mathematics @ Queen Mary University of London  
 Seeking **Software Engineering Internships (2026)**
 
-I enjoy building practical backend systems and improving my problem-solving skills through projects and algorithmic challenges.  
-Currently focused on **Java backend development, APIs, and system design**.
+---
+
+## 🚀 About Me
+
+I design and build **production-style backend systems** with a strong focus on:
+
+- ✅ Correctness and data integrity  
+- ✅ Scalable API design  
+- ✅ Real-world edge cases and validation  
+- ✅ Concurrency-safe system behaviour  
+
+I enjoy going beyond “it works” — I care about **why it works, how it fails, and how to make it robust**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**  
-Java, Python, SQL
+### Languages
+`Java` `Python` `SQL`
 
-**Backend & Frameworks**  
-Spring Boot, REST APIs
+### Backend
+`Spring Boot` `REST APIs` `Spring Data JPA`
 
-**Databases**  
-PostgreSQL, MySQL, SQLite
+### Databases
+`PostgreSQL` `Redis` `Flyway`
 
-**Tools & Technologies**  
-Git, Maven, IntelliJ, VS Code, Linux
+### Tools & Infrastructure
+`Docker` `Docker Compose` `Git` `GitHub Actions (CI/CD)`  
+`Maven` `Linux`
 
-**Core Concepts**  
-Object-Oriented Programming (OOP), Data Structures & Algorithms, Backend System Design, API Development
+### Core Concepts
+- Object-Oriented Design (OOP)  
+- Data Structures & Algorithms  
+- Backend System Design  
+- Concurrency & Idempotency  
+- Data Validation & Invariants  
+
+---
 
 ## 📌 Featured Projects
 
-### 🏥 Clinic Scheduling & Waitlist Engine – Java, Spring Boot *(In Progress)*
-A backend system for managing **patient appointments, clinician availability, and scheduling constraints** in a clinical environment.
+### 🏥 Clinic Scheduling & Waitlist Engine *(In Progress)*
+**Java • Spring Boot • PostgreSQL • Redis • Docker • Flyway**
 
-- **Key Features:** REST API for appointment scheduling, service-layer architecture, UUID-based domain modelling, clinician conflict detection *(in development)*  
-- **Tech:** Java, Spring Boot, PostgreSQL, Flyway, Maven  
-- **Focus:** Backend system design, API development, scheduling logic  
-- **Repo:** *(coming soon)*
+Backend system for managing **clinical appointments, scheduling constraints, and waitlists**.
 
+#### 🔧 Key Features
+- REST APIs for **booking, cancellation, and rescheduling**
+- **Time-range validation** to prevent double-bookings
+- **Service-layer invariants** to guarantee consistent state
+- **Redis caching** for read-heavy endpoints with cache invalidation
+- PostgreSQL + Flyway for **reliable schema evolution**
+- Docker Compose for **reproducible environments**
 
-### 💹 Transaction Risk Portfolio Engine – Java
-A Java-based engine that models portfolios of financial assets, processes buy/sell transactions, and calculates weighted portfolio risk.
-
-- **Key Features:** Portfolio/Asset/Transaction domain model, immutable transactions with unique IDs, dynamic portfolio value tracking, risk calculation engine  
-- **Tech:** Java, Object-Oriented Programming (OOP), data modelling  
-- **Focus:** Backend-style architecture and financial systems modelling  
-- **Repo:** https://github.com/asahal7/transaction-risk-portfolio-engine
-
-
-### 🌤️ Weather API App – Python, Flask
-A weather application that retrieves real-time weather data from external APIs and exposes endpoints for weather queries.
-
-- **Key Features:** External API integration, REST-style endpoints, error handling  
-- **Tech:** Python, Flask, REST APIs, HTML/CSS  
-- **Repo:** https://github.com/asahal7/weather-flask-api
-
-## 🚀 Currently Building
-
-### 🏥 Clinic Scheduling & Waitlist Engine
-A backend system for managing patient appointments, clinician availability, and scheduling constraints.
-
-**Current focus:**
-- Designing REST APIs for appointment scheduling
-- Implementing clinician availability and double-booking prevention
-- Building a waitlist system to automatically fill cancelled appointments
-- Integrating PostgreSQL persistence using Spring Data JPA
-- Managing database migrations with Flyway
-
-**Tech Stack:**  
-Java • Spring Boot • PostgreSQL • Flyway • Maven
-
-
-## 📫 Connect With Me
-- **LinkedIn:** [linkedin.com/in/abdimaalik-sahal](https://www.linkedin.com/in/abdimaalik-sahal-33bbab336/)
-- **Email:** abdimaaaali0k@gmail.com
-- **LeetCode:** [leetcode.com/u/shadow73688](https://leetcode.com/u/shadow73688/)
+#### 🎯 Focus
+Backend architecture • consistency • real-world scheduling logic
 
 ---
-⚡ **Fun Fact:** I enjoy tackling algorithmic challenges and have solved 150+ problems on LeetCode.
 
+### 💹 Transaction Risk Portfolio Engine
+**Java • JUnit 5 • GitHub Actions**
 
+Engine for modelling financial portfolios and processing transactions with strong correctness guarantees.
+
+#### 🔧 Key Features
+- Portfolio / Asset / Transaction domain modelling
+- **Immutable transactions with unique IDs (idempotency)**
+- Validation against **overselling, duplicates, invalid assets**
+- **O(1) portfolio updates** via cached aggregation
+- Automated tests integrated into **CI pipeline**
+
+#### 🎯 Focus
+System design • invariants • financial modelling • reliability
+
+🔗 https://github.com/asahal7/transaction-risk-portfolio-engine
+
+---
+
+### 🌤️ Weather API App
+**Python • Flask • REST APIs**
+
+API that integrates external weather data and exposes structured endpoints.
+
+#### 🔧 Key Features
+- External API integration
+- Robust **error handling and input validation**
+- Consistent JSON responses under failure conditions
+
+🔗 https://github.com/asahal7/weather-flask-api
+
+---
+
+## 🚀 Currently Working On
+
+**Clinic Scheduling & Waitlist Engine**
+
+- Building **waitlist auto-fill system**
+- Strengthening **validation and scheduling rules**
+- Improving performance with **caching + DB optimisation**
+- Preparing for **cloud deployment (AWS)**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asahal7&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asahal7" />
+</p>
+
+---
+
+## 🧠 Problem Solving
+
+- Solved **150+ LeetCode problems**
+- Actively improving speed and depth in:
+  - Arrays & Strings  
+  - Hash Maps  
+  - Sliding Window  
+  - Trees & Graphs  
+  - Dynamic Programming  
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: https://linkedin.com/in/abdimaalik-sahal-33bbab336/  
+- 💻 GitHub: https://github.com/asahal7  
+- 📧 Email: abdimaaaali0k@gmail.com  
+- 🧠 LeetCode: https://leetcode.com/u/shadow73688/  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy breaking down complex systems and rebuilding them with **clean design and strong guarantees** — whether that's scheduling engines or financial systems.
