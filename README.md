@@ -125,12 +125,6 @@ API that integrates external weather data and exposes structured endpoints.
   - Designing **reliable job processing and failure handling**
   - Exploring **event-driven architecture patterns**
 
-- **Clinic Scheduling & Waitlist Engine**
-  - Building **waitlist auto-fill system**
-  - Strengthening **validation and scheduling rules**
-  - Improving performance with **caching + DB optimisation**
-  - Preparing for **cloud deployment (AWS)**
-
 ---
 
 ## 📊 GitHub Stats
