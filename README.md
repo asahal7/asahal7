@@ -46,24 +46,6 @@ I go beyond “it works” — I focus on **why it works, how it fails, and how 
 
 ## 📌 Featured Projects
 
-### 🏥 Clinic Scheduling & Waitlist Engine *(In Progress)*
-**Java • Spring Boot • PostgreSQL • Redis • Docker • Flyway**
-
-Backend system for managing **clinical appointments, scheduling constraints, and waitlists**.
-
-#### 🔧 Key Features
-- REST APIs for **booking, cancellation, and rescheduling**
-- **Time-range validation** to prevent double-bookings
-- **Service-layer invariants** to guarantee consistent state
-- **Redis caching** for read-heavy endpoints with cache invalidation
-- PostgreSQL + Flyway for **reliable schema evolution**
-- Docker Compose for **reproducible environments**
-
-#### 🎯 Focus
-Backend architecture • consistency • real-world scheduling logic
-
----
-
 ### ⚙️ Async Job Queue System *(In Progress)*
 **Java • Spring Boot • RabbitMQ • Docker • PostgreSQL**
 
@@ -80,6 +62,28 @@ Distributed backend system for handling **asynchronous job processing using mess
 Distributed systems • async processing • system design • scalability
 
 ---
+
+
+### 🏥 Clinic Scheduling & Waitlist Engine
+**Java • Spring Boot • PostgreSQL • Redis • Docker • Flyway**
+
+Backend system for managing **clinical appointments, scheduling constraints, and waitlists**.
+
+#### 🔧 Key Features
+- REST APIs for **booking, cancellation, and rescheduling**
+- **Time-range validation** to prevent double-bookings
+- **Service-layer invariants** to guarantee consistent state
+- **Redis caching** for read-heavy endpoints with cache invalidation
+- PostgreSQL + Flyway for **reliable schema evolution**
+- Docker Compose for **reproducible environments**
+
+#### 🎯 Focus
+Backend architecture • consistency • real-world scheduling logic
+
+🔗 https://github.com/asahal7/clinic-scheduling-system
+
+---
+
 
 ### 💹 Transaction Risk Portfolio Engine
 **Java • JUnit 5 • GitHub Actions**
