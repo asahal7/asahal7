@@ -15,7 +15,7 @@ I design and build **production-style backend systems** with a strong focus on:
 - ✅ Real-world edge cases and validation  
 - ✅ Concurrency-safe system behaviour  
 
-I enjoy going beyond “it works” — I care about **why it works, how it fails, and how to make it robust**.
+I go beyond “it works” — I focus on **why it works, how it fails, and how to make it robust at scale**.
 
 ---
 
@@ -32,7 +32,7 @@ I enjoy going beyond “it works” — I care about **why it works, how it fail
 
 ### Tools & Infrastructure
 `Docker` `Docker Compose` `Git` `GitHub Actions (CI/CD)`  
-`Maven` `Linux`
+`Maven` `Linux` `RabbitMQ`
 
 ### Core Concepts
 - Object-Oriented Design (OOP)  
@@ -40,6 +40,7 @@ I enjoy going beyond “it works” — I care about **why it works, how it fail
 - Backend System Design  
 - Concurrency & Idempotency  
 - Data Validation & Invariants  
+- Asynchronous Processing & Messaging  
 
 ---
 
@@ -60,6 +61,23 @@ Backend system for managing **clinical appointments, scheduling constraints, and
 
 #### 🎯 Focus
 Backend architecture • consistency • real-world scheduling logic
+
+---
+
+### ⚙️ Async Job Queue System *(In Progress)*
+**Java • Spring Boot • RabbitMQ • Docker • PostgreSQL**
+
+Distributed backend system for handling **asynchronous job processing using message queues**.
+
+#### 🔧 Key Features
+- **Producer–consumer architecture** with API and worker services
+- RabbitMQ-based **message queue for decoupled communication**
+- Background job processing via **worker service listeners**
+- Docker Compose setup for **multi-service orchestration**
+- Designed for **scalability and fault-tolerant processing**
+
+#### 🎯 Focus
+Distributed systems • async processing • system design • scalability
 
 ---
 
@@ -98,12 +116,16 @@ API that integrates external weather data and exposes structured endpoints.
 
 ## 🚀 Currently Working On
 
-**Clinic Scheduling & Waitlist Engine**
+- **Async Job Queue System**
+  - Implementing **end-to-end messaging (API → queue → worker)**
+  - Designing **reliable job processing and failure handling**
+  - Exploring **event-driven architecture patterns**
 
-- Building **waitlist auto-fill system**
-- Strengthening **validation and scheduling rules**
-- Improving performance with **caching + DB optimisation**
-- Preparing for **cloud deployment (AWS)**
+- **Clinic Scheduling & Waitlist Engine**
+  - Building **waitlist auto-fill system**
+  - Strengthening **validation and scheduling rules**
+  - Improving performance with **caching + DB optimisation**
+  - Preparing for **cloud deployment (AWS)**
 
 ---
 
@@ -139,4 +161,4 @@ API that integrates external weather data and exposes structured endpoints.
 
 ## ⚡ Fun Fact
 
-I enjoy breaking down complex systems and rebuilding them with **clean design and strong guarantees** — whether that's scheduling engines or financial systems.
+I enjoy breaking down complex systems and rebuilding them with **clean architecture, strong guarantees, and production-level thinking**.
