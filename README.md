@@ -1,162 +1,78 @@
-# 👋 Hi, I'm Abdimaalik Sahal
+# Hi, I'm Abdimaalik Sahal
 
-**Backend Software Engineer (in training)**  
-Computer Science & Mathematics @ Queen Mary University of London  
-Seeking **Software Engineering Internships (2026)**
-
----
-
-## 🚀 About Me
-
-I design and build **production-style backend systems** with a strong focus on:
-
-- ✅ Correctness and data integrity  
-- ✅ Scalable API design  
-- ✅ Real-world edge cases and validation  
-- ✅ Concurrency-safe system behaviour  
-
-I go beyond “it works” — I focus on **why it works, how it fails, and how to make it robust at scale**.
+**Backend Software Engineer**  
+Computer Science & Mathematics @ Queen Mary University of London (Graduating 2027)  · Targeting Graduate SWE Roles 2027
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-### Languages
-`Java` `Python` `SQL`
+I build backend systems in Java and Spring Boot with a focus on correctness under real conditions — not just the happy path.
 
-### Backend
-`Spring Boot` `REST APIs` `Spring Data JPA`
-
-### Databases
-`PostgreSQL` `Redis` `Flyway`
-
-### Tools & Infrastructure
-`Docker` `Docker Compose` `Git` `GitHub Actions (CI/CD)`  
-`Maven` `Linux` `RabbitMQ`
-
-### Core Concepts
-- Object-Oriented Design (OOP)  
-- Data Structures & Algorithms  
-- Backend System Design  
-- Concurrency & Idempotency  
-- Data Validation & Invariants  
-- Asynchronous Processing & Messaging  
+My projects are designed around the failure modes that matter in production: idempotent job processing, ACID-correct transaction handling, concurrent booking prevention, and reliable async messaging. I think about what happens when two requests arrive simultaneously, when a message is redelivered, or when a transaction violates a portfolio invariant — and I build systems that handle those cases correctly.
 
 ---
 
-## 📌 Featured Projects
+## Tech Stack
 
-### ⚙️ Async Job Queue System *(In Progress)*
-**Java • Spring Boot • RabbitMQ • Docker • PostgreSQL**
+**Languages:** Java · Python · SQL
 
-Distributed backend system for handling **asynchronous job processing using message queues**.
+**Backend:** Spring Boot · REST APIs · Spring Data JPA · RabbitMQ
 
-#### 🔧 Key Features
-- **Producer–consumer architecture** with API and worker services
-- RabbitMQ-based **message queue for decoupled communication**
-- Background job processing via **worker service listeners**
-- Docker Compose setup for **multi-service orchestration**
-- Designed for **scalability and fault-tolerant processing**
+**Databases:** PostgreSQL · Redis · Flyway
 
-#### 🎯 Focus
-Distributed systems • async processing • system design • scalability
+**Infrastructure:** Docker · Docker Compose · GitHub Actions (CI/CD) · Maven · Linux
+
+**Core Concepts:** Concurrency & Thread Safety · Idempotency · ACID Correctness · Async Messaging · System Design · OOP · Data Structures & Algorithms
 
 ---
 
+## Projects
 
-### 🏥 Clinic Scheduling & Waitlist Engine
-**Java • Spring Boot • PostgreSQL • Redis • Docker • Flyway**
+### Async Job Queue System
+**Java · Spring Boot · RabbitMQ · PostgreSQL · Docker Compose**
 
-Backend system for managing **clinical appointments, scheduling constraints, and waitlists**.
+Distributed job processing system built around the guarantees required for reliable async execution. Two-service architecture — an API service for job submission and a worker service for processing — communicating via RabbitMQ. Implements idempotent job processing to safely handle redelivered messages, a formal job state machine (pending → processing → complete/failed), and at-least-once delivery semantics. PostgreSQL for durable job state persistence, Docker Compose for full local orchestration of both services and infrastructure.
 
-#### 🔧 Key Features
-- REST APIs for **booking, cancellation, and rescheduling**
-- **Time-range validation** to prevent double-bookings
-- **Service-layer invariants** to guarantee consistent state
-- **Redis caching** for read-heavy endpoints with cache invalidation
-- PostgreSQL + Flyway for **reliable schema evolution**
-- Docker Compose for **reproducible environments**
-
-#### 🎯 Focus
-Backend architecture • consistency • real-world scheduling logic
-
-🔗 https://github.com/asahal7/clinic-scheduling-system
+🔗 [View Repository](https://github.com/asahal7/Async-Job-Queue-Engine)
 
 ---
 
+### Clinic Scheduling & Waitlist Engine
+**Java · Spring Boot · PostgreSQL · Redis · Docker · Flyway**
 
-### 💹 Transaction Risk Portfolio Engine
-**Java • JUnit 5 • GitHub Actions**
+Spring Boot REST API for clinic appointment scheduling, built around the concurrency and correctness problems that make booking systems hard in practice. Prevents double-booking via pessimistic locking at the database level. Implements a waitlist engine with automated slot promotion when cancellations occur. PostgreSQL with Spring Data JPA for persistence, Redis cache-aside pattern for read-heavy endpoints, Dockerised for local development, and CI pipeline for automated testing.
 
-Engine for modelling financial portfolios and processing transactions with strong correctness guarantees.
-
-#### 🔧 Key Features
-- Portfolio / Asset / Transaction domain modelling
-- **Immutable transactions with unique IDs (idempotency)**
-- Validation against **overselling, duplicates, invalid assets**
-- **O(1) portfolio updates** via cached aggregation
-- Automated tests integrated into **CI pipeline**
-
-#### 🎯 Focus
-System design • invariants • financial modelling • reliability
-
-🔗 https://github.com/asahal7/transaction-risk-portfolio-engine
+🔗 [View Repository](https://github.com/asahal7/clinic-scheduling-system)
 
 ---
 
-### 🌤️ Weather API App
-**Python • Flask • REST APIs**
+### Transaction Processing & Risk Engine
+**Java · JUnit 5 · GitHub Actions**
 
-API that integrates external weather data and exposes structured endpoints.
+Java backend system enforcing strict correctness guarantees across concurrent financial transactions. Implements immutable transaction records, idempotent processing to handle duplicate submissions, and invariant validation to prevent invalid state transitions such as overselling. Portfolio value updates run in O(1) via incremental state management. Built with GitHub Actions CI/CD pipeline from day one.
 
-#### 🔧 Key Features
-- External API integration
-- Robust **error handling and input validation**
-- Consistent JSON responses under failure conditions
-
-🔗 https://github.com/asahal7/weather-flask-api
+🔗 [View Repository](https://github.com/asahal7/transaction-risk-portfolio-engine)
 
 ---
 
-## 🚀 Currently Working On
+## Problem Solving
 
-- **Async Job Queue System**
-  - Implementing **end-to-end messaging (API → queue → worker)**
-  - Designing **reliable job processing and failure handling**
-  - Exploring **event-driven architecture patterns**
+- 150+ LeetCode problems solved
+- Focus areas: Arrays & Hash Maps · Sliding Window · Trees & Graphs · Dynamic Programming
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asahal7&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asahal7" />
 </p>
 
 ---
 
-## 🧠 Problem Solving
+## Connect
 
-- Solved **150+ LeetCode problems**
-- Actively improving speed and depth in:
-  - Arrays & Strings  
-  - Hash Maps  
-  - Sliding Window  
-  - Trees & Graphs  
-  - Dynamic Programming  
-
----
-
-## 📫 Connect With Me
-
-- 🔗 LinkedIn: https://linkedin.com/in/abdimaalik-sahal-33bbab336/  
-- 💻 GitHub: https://github.com/asahal7  
-- 📧 Email: abdimaaaali0k@gmail.com  
-- 🧠 LeetCode: https://leetcode.com/u/shadow73688/  
-
----
-
-## ⚡ Fun Fact
-
-I enjoy breaking down complex systems and rebuilding them with **clean architecture, strong guarantees, and production-level thinking**.
+- LinkedIn: [abdimaalik-sahal](https://linkedin.com/in/abdimaalik-sahal-33bbab336/)
+- LeetCode: [shadow73688](https://leetcode.com/u/shadow73688/)
+- Email: abdimaaaali0k@gmail.com
