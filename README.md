@@ -63,14 +63,6 @@ Java backend system enforcing strict correctness guarantees across concurrent fi
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asahal7&show_icons=true" />
-</p>
-
----
-
 ## Connect
 
 - LinkedIn: [abdimaalik-sahal](https://linkedin.com/in/abdimaalik-sahal-33bbab336/)
