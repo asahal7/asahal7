@@ -1,6 +1,6 @@
 # Hi, I'm Abdimaalik Sahal
 
-**Backend Software Engineer · Software Engineering Intern @ Hertility Health · Computer Science & Mathematics @ QMUL (Graduating 2027) · Targeting Graduate SWE Roles 2027**
+**Software Engineering Intern @ Hertility Health · Computer Science & Mathematics @ QMUL (Graduating 2027) · Targeting Graduate SWE Roles 2027**
 
 ---
 
