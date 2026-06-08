@@ -1,7 +1,7 @@
 # Hi, I'm Abdimaalik Sahal
 
 **Backend Software Engineer**  
-Computer Science & Mathematics @ Queen Mary University of London (Graduating 2027)  · Targeting Graduate SWE Roles 2027
+Software Engineering Intern @ Hertility Health · Computer Science & Mathematics @ QMUL (Graduating 2027) · Targeting Graduate SWE Roles 2027
 
 ---
 
