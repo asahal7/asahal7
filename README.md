@@ -48,6 +48,7 @@ Spring Boot REST API for clinic appointment scheduling, built around the concurr
 
 ### Transaction Processing & Risk Engine
 **Java · PostgreSQL · JDBC · JUnit 5 · Testcontainers · GitHub Actions**
+
 Java backend system enforcing strict correctness guarantees across concurrent financial transactions. Implements ACID transactions with row-level locking (`SELECT...FOR UPDATE`) to make invalid states such as overselling, negative balances, and invalid assets structurally unreachable. Transaction records are immutable and processing is idempotent via a persisted applied-transactions ledger, ensuring retried operations are safe by design. Integration-tested against a real PostgreSQL instance using Testcontainers, with a GitHub Actions CI/CD pipeline from day one.
 
 🔗 [View Repository](https://github.com/asahal7/transaction-risk-portfolio-engine)
